@@ -5,7 +5,7 @@ Demo Project
 
 **Integration:** Web API
 
-This is a simple Web API / library project meant to intepret a collection of map instructions and simplify them to their simplest components.
+This is a basic Web API / library project meant to intepret a collection of map instructions and reduce them to their simplest components.
 
 The default implementation will take a collection of instructions in the following format:
 
